@@ -1,10 +1,14 @@
-# File Transfer pricing component
+# Easybank Landing Page Project
 
 ![Design preview for the File Transfer pricing component coding challenge](./design/desktop-preview.jpg)
 
-# Easybank Landing Page Project
-
 This is the README.md file for the Easybank Landing Page project. This document provides an overview of the project, its structure, and how to use it.
+
+
+## Live Link Here
+
+
+You can see the live demo of this project [here](https://easybank-landing-page-beta-seven.vercel.app/).
 
 ## Table of Contents
 - [Project Overview](#project-overview)
