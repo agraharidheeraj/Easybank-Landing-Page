@@ -31,6 +31,11 @@ To use this project, follow these steps:
 ``` bash
 git clone https://github.com/agraharidheeraj/Easybank-Landing-Page.git
 ```
+Navigate to the project directory:
+```bash
+cd EASYBANK-LANDING-PAGE
+```
+
 
 2. Open the `index.html` file in a web browser to view the Easybank Landing Page.
 
